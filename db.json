@@ -1,0 +1,60 @@
+{
+    "Movies": [
+        {
+            "id": 1,
+            "Title": "The Parentrap",
+            "Description": "twin sisters seperated at birth work to bring their estranged parents back together",
+            "Year": "1998",
+            "Rating": "★★★★★"
+        },
+        {
+            "id": 2,
+            "Title": "Mean Girls",
+            "Description": "An outsider joins the in crowd and takes rule of the school, dominating over the title of 'Queen Bee'",
+            "Year": "2004",
+            "Rating": "★★★★★"
+        },
+        {
+            "id": 3,
+            "Title": "Holidate",
+            "Description": "A single woman copes with a breakup by causally seeing a stranger as her holiday partner to keep from being alone in social settings",
+            "Year": "2020",
+            "Rating": "★★★★☆"
+        },
+        {
+            "id": 4,
+            "Title": "Titanic",
+            "Description": "A tale of lovers that met their end when their ship crashed into a Glacier",
+            "Year": "1997",
+            "Rating": "★★★☆☆"
+        },
+        {
+            "id": 5,
+            "Title": "The Simpsons Movie",
+            "Description": "A cartoon family is met with disater as Mister burn's pollution erroded the town",
+            "Year": "2007",
+            "Rating": "★★★☆☆"
+        },
+        {
+            "id": 6,
+            "Title": "Shrek",
+            "Description": "An oger rescues a princess and share an evolutionary 'true love's kiss'",
+            "Year": "2001",
+            "Rating": "★★★☆☆"
+        },
+        {
+            "id": 7,
+            "Title": "Fight Club",
+            "Description": "A man is pushed to the extreme, forced to experience life and everything that comes with it",
+            "Year": "1999",
+            "Rating": "★★★★★"
+        },
+        {
+            "id": 8,
+            "Title": "Epic Movie",
+            "Description": "A movie about noting ",
+            "Year": "2007",
+            "Rating": "☆☆☆☆☆"
+        }
+    ]
+}
