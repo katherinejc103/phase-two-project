@@ -5,6 +5,7 @@
             "Title": "The Parentrap",
             "Description": "twin sisters seperated at birth work to bring their estranged parents back together",
             "Year": "1998",
+            "Image": "https://lumiere-a.akamaihd.net/v1/images/p_theparenttrap1998_19873_be8ce25c.jpeg",
             "Rating": "★★★★★"
         },
         {
@@ -12,6 +13,7 @@
             "Title": "Mean Girls",
             "Description": "An outsider joins the in crowd and takes rule of the school, dominating over the title of 'Queen Bee'",
             "Year": "2004",
+            "Image": "https://images.justwatch.com/poster/252834940/s718/mean-girls.%7Bformat%7D",
             "Rating": "★★★★★"
         },
         {
@@ -19,6 +21,7 @@
             "Title": "Holidate",
             "Description": "A single woman copes with a breakup by causally seeing a stranger as her holiday partner to keep from being alone in social settings",
             "Year": "2020",
+            "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1sy38U7YeWK5sGZfCBXYWx77t6yuf52W1rQ&usqp=CAU",
             "Rating": "★★★★☆"
         },
         {
@@ -26,6 +29,7 @@
             "Title": "Titanic",
             "Description": "A tale of lovers that met their end when their ship crashed into a Glacier",
             "Year": "1997",
+            "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwskseEAulU4HIgaGsUkqIHY51U0xLz62wCQ&usqp=CAU",
             "Rating": "★★★☆☆"
         },
         {
@@ -33,6 +37,7 @@
             "Title": "The Simpsons Movie",
             "Description": "A cartoon family is met with disater as Mister burn's pollution erroded the town",
             "Year": "2007",
+            "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROk9RRW0DmLF_xkvPj5EvLa7eu337zmn2Qag&usqp=CAU",
             "Rating": "★★★☆☆"
         },
         {
@@ -40,6 +45,7 @@
             "Title": "Shrek",
             "Description": "An oger rescues a princess and share an evolutionary 'true love's kiss'",
             "Year": "2001",
+            "Image": "https://m.media-amazon.com/images/M/MV5BZDE2ZjIxYzUtZTJjYS00OWQ0LTk2NGEtMDliYmI3MzMwYjhkXkEyXkFqcGdeQWFsZWxvZw@@._V1_QL75_UX500_CR0,0,500,281_.jpg",
             "Rating": "★★★☆☆"
         },
         {
@@ -47,6 +53,7 @@
             "Title": "Fight Club",
             "Description": "A man is pushed to the extreme, forced to experience life and everything that comes with it",
             "Year": "1999",
+            "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7VGIbLCpuThjPZMoNMuIXKyrJBRb6aYP6AA&usqp=CAU",
             "Rating": "★★★★★"
         },
         {
@@ -54,6 +61,7 @@
             "Title": "Epic Movie",
             "Description": "A movie about noting ",
             "Year": "2007",
+            "Image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIe-RVRLtkWWFHZP20jlicniu035O0ZnYRLA&usqp=CAU",
             "Rating": "☆☆☆☆☆"
         }
     ]
