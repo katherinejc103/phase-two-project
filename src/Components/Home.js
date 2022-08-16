@@ -10,7 +10,7 @@ const Home = () => {
         <h1>Katherine's Movies</h1>
         <h1 align="center">My Own Personal Movie Review Blog</h1>
         </container>
-       <container>
+       <container align="center">
         <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWIXqd7pzEOJn1XRK1j7ofDrQRXEURe2QDCaFjGvjWgo35hYU-Uyq6G2Jd-Ttp5VysDPE&usqp=CAU" class="center" width="400" height="500"/>
         </container> 
        <h2>Movie Review Key</h2>
@@ -25,3 +25,4 @@ const Home = () => {
 }
 
 export default Home
+
